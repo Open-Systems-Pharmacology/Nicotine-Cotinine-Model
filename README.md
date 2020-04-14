@@ -1,4 +1,4 @@
-# Nicotine-Model
+# Nicotine-Cotinine-Model
 Whole-body PBPK/PD model of nicotine and cotinine
 
 ### Repository Files
